@@ -1,0 +1,12 @@
+# This is not an official `cpsc` starter file yet. :)
+# FIXME: all of this is expected to fail right now!
+version = "0" # Expected to be _broken_. :)
+
+[[standalone.repos]]
+source = "git@github.com:erichdongubler-dotfiles/git.git"
+
+[[standalone.repos]]
+source = "git@github.com:erichdongubler-dotfiles/neovim.git"
+
+[[standalone.repos]]
+source = "git@github.com:erichdongubler-dotfiles/nushell.git"
