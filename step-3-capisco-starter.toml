@@ -2,11 +2,23 @@
 # FIXME: all of this is expected to fail right now!
 version = "0" # Expected to be _broken_. :)
 
+[[overlay.repos]]
+source = "git@github.com:erichdongubler-dotfiles/espanso.git"
+
+[[overlay.repos]]
+source = "git@github.com:erichdongubler-dotfiles/starship.git"
+
 [[standalone.repos]]
 source = "git@github.com:erichdongubler-dotfiles/git.git"
+
+[[standalone.repos]]
+source = "git@github.com:erichdongubler-dotfiles/less.git"
 
 [[standalone.repos]]
 source = "git@github.com:erichdongubler-dotfiles/neovim.git"
 
 [[standalone.repos]]
 source = "git@github.com:erichdongubler-dotfiles/nushell.git"
+
+[[standalone.repos]]
+source = "git@github.com:erichdongubler-dotfiles/wezterm.git"
