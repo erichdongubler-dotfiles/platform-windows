@@ -1,0 +1,9 @@
+winget install Discord.Discord
+winget install GitHub.cli
+winget install Greenshot.Greenshot
+winget install Microsoft.VisualStudio.2022.Community
+winget install OBSProject.OBSStudio
+winget install Pushbullet.Pushbullet
+winget install Valve.Steam
+winget install dziemborowicz.hourglass
+winget install wez.wezterm
