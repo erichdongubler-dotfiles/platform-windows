@@ -12,6 +12,7 @@ winget install Chocolatey.Chocolatey
 winget install Espanso.Espanso
 winget install Greenshot.Greenshot
 winget install Helix.Helix
+winget install Microsoft.VisualStudioCode
 winget install Mozilla.Firefox
 winget install Neovim.Neovim
 winget install Nushell.Nushell
@@ -26,4 +27,3 @@ winget install junegunn.fzf
 winget install rustup
 winget install sharkdp.bat
 winget install sharkdp.fd
-winget install vscode
