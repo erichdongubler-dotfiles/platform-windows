@@ -8,6 +8,7 @@ winget install --moniker python3
 winget install AltSnap.AltSnap
 winget install Bitwarden.Bitwarden
 winget install BurntSushi.ripgrep.MSVC
+winget install Chocolatey.Chocolatey
 winget install Espanso.Espanso
 winget install Greenshot.Greenshot
 winget install Helix.Helix
@@ -20,7 +21,6 @@ winget install SlackTechnologies.Slack
 winget install Starship.Starship
 winget install UniversalCtags.Ctags
 winget install ajeetdsouza.zoxide
-winget install choco
 winget install dandavison.delta
 winget install junegunn.fzf
 winget install rustup
